@@ -7,8 +7,8 @@ module.exports = [
     items: [
       {text: 'Arduino', link: '/'},
       {text: 'PlatformIO', link: '/'},
-      {text: 'Linux', link: '/pages/ef63e1/'},
-      {text: 'RISC-V', link: '/pages/f13a0d/'},
+      {text: 'Linux', link: '/'},
+      {text: 'RISC-V', link: '/'},
       {text: 'Others', link: '/'}
     ],
   },
