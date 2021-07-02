@@ -5,8 +5,11 @@ module.exports = [
     text: '嵌入式',
     link: '/ee/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
-      {text: 'Arduino', link: '/pages/7e771e/'},
-      {text: 'PlatformIO', link: '/pages/ce7fb6/'}
+      {text: 'Arduino', link: '/'},
+      {text: 'PlatformIO', link: '/'},
+      {text: 'Linux', link: '/pages/ef63e1/'},
+      {text: 'RISC-V', link: '/pages/f13a0d/'},
+      {text: 'Others', link: '/'}
     ],
   },
   {
